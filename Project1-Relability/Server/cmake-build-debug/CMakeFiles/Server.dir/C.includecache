@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/Jeremiah/CLionProjects/Project1-Relability/Server/main.c
+sys/socket.h
+-
+sys/stat.h
+-
+netinet/in.h
+-
+stdio.h
+-
+string.h
+-
+stdlib.h
+-
+sys/errno.h
+-
+unistd.h
+-
+
